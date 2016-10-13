@@ -19,7 +19,7 @@ Features
 * Database independent
 * Reads and writes your project's `gettext` catalogs (po and mo files)
 * Installed and uninstalled in under a minute
-* Uses Django's admin interface CSS
+* Uses custom theme instead of Django's admin interface CSS
 
 
 *************
